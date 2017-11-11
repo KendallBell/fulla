@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="5">
+      <Unit0>
+        <Filename Value="testfulla.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="20" Y="7"/>
+        <UsageCount Value="113"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="src/fulla.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Fulla"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="15"/>
+        <CursorPos X="73" Y="45"/>
+        <UsageCount Value="113"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="tests/fulla_testcases.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Fulla_TestCases"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="98"/>
+        <CursorPos X="64" Y="98"/>
+        <UsageCount Value="112"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="UNLICENSE.txt"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="44"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="README.md"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="49" Y="3"/>
+        <UsageCount Value="44"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit4>
+    </Units>
+    <JumpHistory Count="3" HistoryIndex="2">
+      <Position1>
+        <Filename Value="src/fulla.pas"/>
+        <Caret Line="141" Column="46" TopLine="141"/>
+      </Position1>
+      <Position2>
+        <Filename Value="tests/fulla_testcases.pas"/>
+        <Caret Line="22" Column="25"/>
+      </Position2>
+      <Position3>
+        <Filename Value="testfulla.lpr"/>
+        <Caret Line="11" Column="12"/>
+      </Position3>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
