@@ -43,6 +43,8 @@ REVISION HISTORY
         UInt64BEtoBytes*, UInt34LEtoBytes*.
   11/03/2017 K. Bell
     - Fixed bug in UInt16LEtoBytes, UInt32LEtoBytes and UInt64LEtoBytes.
+  11/11/2017 K. bell
+    - Changed string to ansistring.
 ******************************************************************************}
 
 unit Fulla;
@@ -52,9 +54,9 @@ interface
 type
   TByteList = array of byte;
 
-function StrToBytes(str: string): TByteList;
-procedure StrToBytesInsert(str: string; var bytes: TByteList; index: integer);
-function BytesToStr(bytes: TByteList): string;
+function StrToBytes(str: ansistring): TByteList;
+procedure StrToBytesInsert(str: ansistring; var bytes: TByteList; index: integer);
+function BytesToStr(bytes: TByteList): ansistring;
 
 function BytesToUInt16BE(bytes: TByteList; index: integer = 0): word;
 function BytesToUInt16LE(bytes: TByteList; index: integer = 0): word;

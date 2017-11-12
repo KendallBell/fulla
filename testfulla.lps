@@ -8,17 +8,18 @@
         <Filename Value="testfulla.lpr"/>
         <IsPartOfProject Value="True"/>
         <CursorPos X="20" Y="7"/>
-        <UsageCount Value="113"/>
+        <UsageCount Value="127"/>
         <Loaded Value="True"/>
       </Unit0>
       <Unit1>
         <Filename Value="src/fulla.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="Fulla"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
-        <TopLine Value="15"/>
-        <CursorPos X="73" Y="45"/>
-        <UsageCount Value="113"/>
+        <TopLine Value="71"/>
+        <CursorPos X="44" Y="107"/>
+        <UsageCount Value="127"/>
         <Loaded Value="True"/>
       </Unit1>
       <Unit2>
@@ -28,23 +29,22 @@
         <EditorIndex Value="2"/>
         <TopLine Value="98"/>
         <CursorPos X="64" Y="98"/>
-        <UsageCount Value="112"/>
+        <UsageCount Value="126"/>
         <Loaded Value="True"/>
       </Unit2>
       <Unit3>
         <Filename Value="UNLICENSE.txt"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
-        <UsageCount Value="44"/>
+        <UsageCount Value="58"/>
         <DefaultSyntaxHighlighter Value="None"/>
       </Unit3>
       <Unit4>
         <Filename Value="README.md"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="3"/>
-        <CursorPos X="49" Y="3"/>
-        <UsageCount Value="44"/>
+        <CursorPos X="66" Y="3"/>
+        <UsageCount Value="58"/>
         <Loaded Value="True"/>
         <DefaultSyntaxHighlighter Value="None"/>
       </Unit4>
